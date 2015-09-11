@@ -1,0 +1,37 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "amomin0107@gmail.com",
+    "longName": "YG",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Motorblock.ttf",
+                "name": "yg_42",
+                "type": "font"
+            },
+            {
+                "file": "images/1e105043fed6c8578b89dc04a3efa290.png",
+                "name": "YG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "YG",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "66a1e271-1c08-463c-ae5a-df468c62af9b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
